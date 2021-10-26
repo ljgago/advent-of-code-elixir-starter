@@ -6,6 +6,17 @@ A tamplate for [Advent of Code](https://adventofcode.com) write in Elixir.
 
 ## Usage
 
+First clone this repository and run `mix deps.get`:
+
+    $ git clone https://github.com/ljgago/advent-of-code-elixir-starter aoc-elixir
+    $ cd aoc-elixir
+
+    # update or install hex package manager
+    $ mix local.hex --force
+
+    # download dependencies
+    $ mix deps.get
+
 This template has 3 command that you can use:
 
     $ mix aoc.gen       # Generate files for Advent of Code
