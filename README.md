@@ -2,7 +2,7 @@
 
 <!-- MDOC !-->
 
-A tamplate for [Advent of Code](https://adventofcode.com) write in Elixir.
+A template for [Advent of Code](https://adventofcode.com) write in Elixir.
 
 ## Usage
 
